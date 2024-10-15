@@ -1,0 +1,48 @@
+.card{
+    position: absolute;
+    left: 50px;
+    width: 200px;
+    height: 420px;
+    border: 1px solid blueviolet;
+}
+.card img{
+    position: relative;
+    left: 20px;
+}
+.card h5{
+    position: relative;
+    left: 10px;
+}
+.card p{
+    position: relative;
+    left: 10px;
+}
+.card a{
+    position: relative;
+    left: 10px;
+}
+
+.card2{
+    position: absolute;
+    left: 400px;
+    width: 200px;
+    height: 420px;
+    border: 1px solid blueviolet;
+}
+.card2 img{
+    position: relative;
+    left: 20px;
+    width: 260px;
+}
+.card2 h5{
+    position: relative;
+    left: 10px;
+}
+.card2 p{
+    position: relative;
+    left: 10px;
+}
+.card2 a{
+    position: relative;
+    left: 10px;
+}

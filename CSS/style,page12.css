@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+}
+
+.d1{
+    background-color: aqua;
+    position: relative;
+    padding: 15px;
+    width: 740px;
+}
+
+.d1 a{
+    position: relative;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-right: 1px solid black;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+
+.d1 a:hover{
+    background-color: chartreuse;
+    color: deeppink;
+}

@@ -1,0 +1,104 @@
+.d1{
+    position: absolute;
+    left: 90px;
+    width: 200px;
+    height: 350px;
+    border: 1px solid #000;
+}
+
+.d1 img{
+    width: 150px;
+    height: 150px;
+}
+
+.d1 h3{
+    position: relative;
+    left: 10px;
+}
+
+.d1 p{
+    position: relative;
+    left: 10px;
+}
+
+.d1 button{
+    position: relative;
+    left: 10px;
+    background-color: rgb(28, 184, 236);
+    color: white;
+}
+.d1 button:hover{
+    background-color: cornflowerblue;
+}
+
+
+
+
+
+
+.d2{
+    position: absolute;
+    left: 400px;
+    width: 200px;
+    height: 350px;
+    border: 1px solid #000;
+}
+.d2 img{
+    width: 150px;
+    height: 150px;
+}
+
+.d2 h3{
+    position: relative;
+    left: 10px;
+}
+
+.d2 p{
+    position: relative;
+    left: 10px;
+}
+
+.d2 button{
+    position: relative;
+    left: 10px;
+    background-color: rgb(28, 184, 236);
+    color: white;
+}
+.d2 button:hover{
+    background-color: cornflowerblue;
+}
+
+
+
+
+.d3{
+    position: absolute;
+    left: 700px;
+    width: 200px;
+    height: 300px;
+    border: 1px solid #000;
+}
+.d3 img{
+    width: 150px;
+    height: 150px;
+}
+
+.d3 h3{
+    position: relative;
+    left: 10px;
+}
+
+.d3 p{
+    position: relative;
+    left: 10px;
+}
+
+.d3 button{
+    position: relative;
+    left: 10px;
+    background-color: rgb(28, 184, 236);
+    color: white;
+}
+.d3 button:hover{
+    background-color: cornflowerblue;
+}

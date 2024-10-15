@@ -1,0 +1,46 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.d1{
+    background-color: #638ECB;
+    position: relative;
+    border-radius: 20px;
+    height: 220px;
+    width: 330px;   
+}
+
+.d1 td{
+    position: relative;
+    left:10px ;
+}
+
+.d1 h3{
+    position: relative;
+    text-align: center;
+    color: #D5DEEF;
+}
+#en{
+    background-color: #8AAEE0;
+    color: #F0F3FA;
+    position: relative;
+    left: 121px;
+    border-radius: 10px;
+    top: 15px;
+}
+#en:hover{
+    background-color: #395886;
+    box-shadow: 0 0 5px #395886,
+        0 0 25px #395886 ,0 0 50px #395886,
+        0 0 100px #395886 ,0 0 200px #395886 ;
+}
+
+input{
+    background-color: #D5DEEF;
+}
+select{
+    background-color: #D5DEEF;
+}

@@ -1,0 +1,80 @@
+#d1{
+    background-color: gray;
+    position: relative;
+    height: 50px;
+    width: 1370px;
+    left: 20px;
+}
+
+#d1 a{
+    color: aliceblue;
+    position: relative;
+    left: 10px;
+    padding: 10px;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    top: 10px;
+}
+
+#d1 a:hover{
+    position: relative;
+    background-color: black;
+    color: blue;
+}
+
+#i1{
+    position: relative;
+    float: right;
+}
+
+.d1{
+    position: relative;
+    width: 400px;
+    left: 20px;
+    top: 80px;
+}
+
+.d1 img{
+    position: relative;
+    width: 380px;
+    border: 1px solid black;
+}
+
+.d2{
+    position: relative;
+    width: 400px;
+    left: 500px;
+    top: -320px;
+}
+
+.d3{
+    position: relative;
+    width: 400px;
+    left: 1000px;
+    top: -650px;
+}
+
+.d3 img{
+    position: relative;
+    left: 80px;
+}
+
+button{
+    position: relative;
+    top: -500px;
+    width: 1370px;
+    background-color: aquamarine;
+    border: none;
+    color: rgb(8, 79, 79);
+    left: 20px;
+}
+
+.ln{
+    position: relative;
+    top: 50px;
+    left: 20px;
+    width: 1370px;
+    height: 1px; 
+    background-color: black;
+}

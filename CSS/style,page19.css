@@ -1,0 +1,25 @@
+.ent{
+    background-color: cornflowerblue;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+
+.d1{
+    position: relative;
+}
+
+.d1 a{
+    padding: 10px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    border-bottom: 1px solid burlywood;
+    color: wheat;
+}
+
+.d1 a:hover{
+    background-color: burlywood;
+    color: aquamarine;
+    border-radius: 10px;
+}

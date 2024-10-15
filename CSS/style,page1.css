@@ -1,0 +1,57 @@
+.d1{
+    position: absolute;
+    height: 400px;
+    width: 350px;
+    background-color: bisque;
+    top: 100px;
+    left: 100px;
+    padding: 30px;
+}
+
+.d1 h1{
+    text-decoration: solid;
+    color: chocolate;
+}
+
+
+.d1 button{
+    position: relative;
+    top: 20px;
+    background-color: #0A66C2;
+    border: 0;
+    padding: 10px;
+    border-radius: 100px;
+}
+
+.d1 button:hover{
+        background-color: aqua;
+        box-shadow: 0 0 5px cyan,
+        0 0 25px cyan ,0 0 50px cyan,
+        0 0 100px cyan ,0 0 200px cyan ;
+        color: antiquewhite;
+}
+
+.btn{
+    background-color: bisque;
+    height: 30px;
+    position: relative;
+    left: 950px;
+}
+
+.btn button{
+    position: relative;
+    top: 4.5px;
+    left: 15px;
+}
+
+.btn button:hover{
+    background-color: deepskyblue;
+    color: antiquewhite;
+}
+
+.image{
+    position: relative;
+    top: 160px;
+    left: 600px;    
+
+}

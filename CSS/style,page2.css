@@ -1,0 +1,137 @@
+h1{
+    text-align: center;
+}
+
+.d1{
+    position: absolute;
+    height: 250px;
+    width: 300px;
+    background-color: gold;
+    left: 300px;
+    border-radius: 20px;
+}
+.d1 h3{
+    color: brown;
+    margin: 15px;
+}
+
+.d1 h4{
+    position: absolute;
+    left: 200px;
+    top: 140px;
+    color: chocolate;
+}
+.d1 button{
+    border-radius: 100px;
+    background-color: brown;
+    color: blanchedalmond;
+    position: absolute;
+    left: 200px;
+    top: 100px;
+    height: 40px;
+    width: 80px;
+}
+
+.d1 button:hover{
+    background-color: chocolate;
+}
+.d1 img{
+    position: absolute;
+    left: 15px;
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+
+
+.d2{
+    position: absolute;
+    height: 250px;
+    width: 300px;
+    background-color: gold;
+    left: 700px;
+    border-radius: 20px;
+}
+.d2 h3{
+    color: brown;
+    margin: 15px;
+}
+
+.d2 h4{
+    position: absolute;
+    left: 200px;
+    top: 140px;
+    color: chocolate;
+}
+.d2 button{
+    border-radius: 100px;
+    background-color: brown;
+    color: blanchedalmond;
+    position: absolute;
+    left: 200px;
+    top: 100px;
+    height: 40px;
+    width: 80px;
+}
+
+.d2 button:hover{
+    background-color: chocolate;
+}
+.d2 img{
+    position: absolute;
+    left: 15px;
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.d3{
+    position: absolute;
+    height: 250px;
+    width: 300px;
+    background-color: gold;
+    top: 370px;
+    left: 300px;
+    border-radius: 20px;
+
+}
+.d3 h3{
+    color: aquamarine;
+    position: absolute;
+    left: 10px;
+}
+
+.d3 p{
+    position: absolute;
+    top: 30px;
+    left: 10px;
+}
+
+.d3 button{
+    position: absolute;
+    top: 160px;
+    border-radius: 100px;
+    background-color: aquamarine;
+    left: 10px;
+}
+
+.btn{
+    background-color: bisque;
+    height: 30px;
+    position: relative;
+    top: -70px;
+    left: 950px;
+    width: 280px;
+}
+
+.btn button{
+    position: relative;
+    top: 4.5px;
+    left: 15px;
+}
+
+.btn button:hover{
+    background-color: deepskyblue;
+    color: antiquewhite;
+}

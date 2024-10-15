@@ -1,0 +1,13 @@
+.d{
+    background-color: lime;
+    border: 1px double black;
+    margin-bottom: 10px;
+    border-color: white;
+    border-radius: 10px;
+}
+
+p{
+    position: relative;
+    text-align: center;
+    top: 7px;
+}

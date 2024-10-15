@@ -1,0 +1,10 @@
+.d1{
+    position: relative;
+    top: 50px;
+}
+
+.d1 thead ,tbody{
+    position: relative;
+    left: 90px;
+    top: -45px;
+}

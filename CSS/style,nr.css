@@ -1,0 +1,95 @@
+.d1{
+    position: absolute;
+    left: 90px;
+    width: 200px;
+    height: 350px;
+    border: 1px solid brown;
+}
+
+.d1 img{
+    width: 200px;
+    height: 160px;
+}
+
+.d1 h3{
+    position: relative;
+    left: 10px;
+}
+
+.d1 p{
+    position: relative;
+    left: 10px;
+}
+
+.d1 button{
+    position: relative;
+    left: 10px;
+    background-color: orange;
+    color: white;
+}
+
+
+
+
+
+
+.d2{
+    position: absolute;
+    left: 400px;
+    width: 200px;
+    height: 350px;
+    border: 1px solid brown;
+}
+.d2 img{
+    width: 200px;
+    height: 190px;
+}
+
+.d2 h3{
+    position: relative;
+    left: 10px;
+}
+
+.d2 p{
+    position: relative;
+    left: 10px;
+}
+
+.d2 button{
+    position: relative;
+    left: 10px;
+    background-color: orange;
+    color: white;
+}
+
+
+
+
+.d3{
+    position: absolute;
+    left: 700px;
+    width: 200px;
+    height: 330px;
+    border: 1px solid brown;
+}
+.d3 img{
+    width: 200px;
+    height: 150px;
+}
+
+.d3 h3{
+    position: relative;
+    left: 10px;
+}
+
+.d3 p{
+    position: relative;
+    left: 10px;
+}
+
+.d3 button{
+    position: relative;
+    left: 10px;
+    background-color: orange;
+    color: white;
+}

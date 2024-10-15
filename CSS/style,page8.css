@@ -1,0 +1,27 @@
+.d1{
+    background-color: blueviolet;
+    width: 720px;
+}
+.d1 td{
+    position: relative;
+    left: 10px;
+}
+.d1 label{
+    position: relative;
+    left: 15px;
+}
+
+.l1{
+    position: relative;
+    left: 200px;
+}
+
+#c{
+    background-color: aqua;
+    border-radius: 10px;
+}
+
+#c1{
+    background-color: aqua;
+    border-radius: 10px;
+}

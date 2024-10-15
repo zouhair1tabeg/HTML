@@ -1,0 +1,40 @@
+.t1 table ,th ,td ,tr{
+    margin-left: 30px;
+    border:1px solid black;
+}
+
+.t1{
+    width: 500px;
+    border: 1px solid blue;
+}
+.t1 h1{
+    position: relative;
+    left: 30px;
+    top: -20px;
+}
+
+.t2{
+    border:1px solid black;
+    width: 600px;
+    position: relative;
+    top: 50px;
+}
+
+.t3{
+    margin-left: 10px;
+    border:1px solid black;
+    position: relative;
+    top: 100px;
+    width: 600px;
+}
+
+#d1{
+    background: url(Rolex-Opinion-21-scaled.webp);
+    background-size: contain;
+}
+
+#d2{
+    background: url(bike1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

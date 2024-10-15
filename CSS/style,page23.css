@@ -1,0 +1,41 @@
+.d1{
+    background-color: lightblue;
+    height: 100px;
+}
+
+.d2{
+    background-color: orange;
+    height: 100px;
+}
+
+.d3{
+    background-color: yellow;
+    height: 100px;
+}
+
+.d4{
+    background-color: lightpink;
+    height: 100px;
+}
+
+.d5{
+    background-color: lightskyblue;
+    height: 100px;
+}
+
+.d6{
+    background-color: lightseagreen;
+    height: 100px;
+}
+
+@media screen and (max-width : 900px){
+    .content{
+        width: 50%;
+    }
+}
+
+@media screen and (max-width : 600px) {
+    .content{
+        width: 100%;
+    }
+}

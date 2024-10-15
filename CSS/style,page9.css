@@ -1,0 +1,80 @@
+#d1{
+    background-color: black;
+    position: relative;
+    height: 50px;
+}
+
+#d1 a{
+    color: aliceblue;
+    position: relative;
+    left: 10px;
+    padding: 10px;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    top: 10px;
+}
+
+#d1 a:hover{
+    position: relative;
+    background-color: white;
+    color: black;
+}
+
+
+#d2{
+    background-color: black;
+    position: absolute;
+    top: 90px;
+    height: 380px;
+    width: 260px;
+}
+
+#d2 a{
+    color: aliceblue;
+    position: relative;
+    left: 30px;
+    padding: 10px;
+    top: 20px;
+    margin-top: 30px;
+    display: block;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+#d2 a:hover{
+    width: 90px;
+    position: relative;
+    background-color: white;
+    color: black;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.7rem 2rem;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    backface-visibility: hidden;
+    border: 0.3rem solid transparent;
+    border-radius: 3rem;
+    border-color: transparent;
+    transition: background-color 0.3s ease-in-out;
+    background-color: white;
+}
+
+#d1 select{
+    border-radius: 4px;
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+
+#d1 input{
+    position: relative;
+    top: 2px;
+    height: 20px;
+    left: 20px;
+    top: 10px;
+}

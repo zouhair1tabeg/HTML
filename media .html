@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Responsive Grid Layout</title>
+<style>
+  /* Styles communs pour les div */
+  .container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+    padding: 20px;
+  }
+
+  .box {
+    padding: 20px;
+    text-align: center;
+    background-color: lightblue;
+  }
+
+  /* Media Query pour les écrans plus petits que 1024px */
+  @media screen and (max-width: 1024px) {
+    .container {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  /* Media Query pour les écrans plus petits que 768px */
+  @media screen and (max-width: 768px) {
+    .container {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  /* Media Query pour les écrans plus petits que 576px */
+  @media screen and (max-width: 576px) {
+    .container {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="box">Div 1</div>
+  <div class="box">Div 2</div>
+  <div class="box">Div 3</div>
+  <div class="box">Div 4</div>
+</div>
+
+</body>
+</html>

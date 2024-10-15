@@ -1,0 +1,29 @@
+.box{
+    background-color: lightblue;
+    height: 40px;
+    width: 300px;
+}
+
+.box p{
+    position: relative;
+    text-align: center;
+    top: 10px;
+}
+
+@media screen and (min-width : 500px) {
+    .box{
+        width: 50%;
+    }
+}
+
+@media screen and (min-width : 900px){
+
+}
+
+@media screen {
+    
+}
+
+@media screen {
+    
+}

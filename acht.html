@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Animation CSS</title>
+<style>
+    .animated-element {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    margin: 20px;
+    }
+
+    .translate {
+    background-color: blue;
+    transition: transform 2s ease-in-out;
+    }
+
+    .translate:hover {
+    transform: translateX(200px);
+    }
+
+    .scale {
+    background-color: red;
+    transition: transform 2s ease-in-out;
+    }
+
+    .scale:hover {
+    transform: scale(1.5);
+    }
+
+
+</style>
+</head>
+<body>
+    <div class="animated-element translate"></div>
+    <div class="animated-element scale"></div>
+</body>
+</html>

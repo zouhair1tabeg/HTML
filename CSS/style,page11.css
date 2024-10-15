@@ -1,0 +1,28 @@
+body{
+    background-color: cornflowerblue;
+}
+
+.d1{
+    position: relative;
+    background-color: aliceblue;
+    padding: 10px;
+    height: 350px;
+    width: 200px;
+    top: 30px;
+    left: 30px;
+}
+
+.d1 a{
+    padding: 10px;
+    margin-top: 10px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    border-bottom: 1px solid burlywood;
+    color: cadetblue;
+}
+
+.d1 a:hover{
+    background-color: burlywood;
+    color: aquamarine;
+}

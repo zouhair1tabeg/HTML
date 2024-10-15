@@ -1,0 +1,29 @@
+.d1{
+    position: relative;
+    background-color: greenyellow;
+    width: 570px;
+    height: 540px;
+    border-radius: 10px;
+}
+
+.d1 td{
+    position: relative;
+    left: 20px;
+    
+}
+
+
+svg{
+    position: relative;
+    top: 4px;
+}
+
+#i1{
+    position: relative;
+    left: 200px;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: green;
+    top: 20px;
+}
+

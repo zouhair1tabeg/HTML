@@ -1,0 +1,38 @@
+.d{
+    background-color: aquamarine;
+    border-radius: 20px;
+}
+
+p{
+    text-align: center;
+}
+
+.col-md-12{
+    background-color: burlywood;
+    border-radius: 20px;
+}
+
+nav{
+    background-color: lightpink;
+    border-radius: 20px;
+}
+
+#c1{
+    background-color: rgb(162, 84, 84);
+    border-radius: 20px;
+}
+
+.col-md-9{
+    background-color: rgb(162, 84, 84);
+    border-radius: 20px;
+}
+
+#c2{
+    background-color: cadetblue;
+    border-radius: 20px;
+}
+
+#c3{
+    background-color: cadetblue;
+    border-radius: 20px;
+}

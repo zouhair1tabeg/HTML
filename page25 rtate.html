@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rotation CSS de 360 degrés en 4 secondes</title>
+<style>
+    .rotation-div {
+        width: 100px;
+        height: 100px;
+        background-color: #f00; /* Couleur de fond pour visualiser la rotation */
+         /* Animation de transition avec une durée de 4 secondes */
+    }
+
+    .rotation-div:hover {
+        transform: rotate(360deg);
+        transition: transform 4s ease; /* Appliquer une rotation de 360 degrés lors du survol */
+    }
+</style>
+</head>
+<body>
+
+<div class="rotation-div"></div>
+
+</body>
+</html>
